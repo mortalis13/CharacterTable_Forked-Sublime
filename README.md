@@ -1,6 +1,12 @@
 Character Table
 ===============
 
+> Fork of the original plugin [Character Table](https://packagecontrol.io/packages/Character Table) from the **Package Control**.
+> The source is missing from the [bitbucket repo](https://bitbucket.org/klorenz/sublimedigraph) so I've created this one to keep it alive.
+> The readme below is the original one.
+
+
+
 Lookup (and Insert) Unicode Character
 -------------------------------------
 
